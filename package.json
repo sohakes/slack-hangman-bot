@@ -1,0 +1,14 @@
+{
+  "name": "fdh-bot",
+  "version": "1.0.0",
+  "description": "A slack bot",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
